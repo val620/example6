@@ -1,0 +1,11 @@
+boot\sixth\Domain\Role.class
+boot\sixth\Domain\User.class
+boot\sixth\dao\UserDao.class
+boot\sixth\druid\DruidStatFilter.class
+boot\sixth\druid\DruidStatViewServlet.class
+boot\sixth\Example6Application.class
+boot\sixth\controller\UserController.class
+boot\sixth\druid\DruidProperties.class
+boot\sixth\config\Swagger2.class
+boot\sixth\Mapper\UserMapper.class
+boot\sixth\druid\DruidAutoConfiguration.class
